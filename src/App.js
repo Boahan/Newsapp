@@ -33,7 +33,7 @@ function App() {
       <Navbar bg="light" expand="lg" className="mb-4">
         <Container>
           <Navbar.Brand href="/" className="fw-bold fs-4">
-            News App
+            CosMos
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="navbar-nav" />
