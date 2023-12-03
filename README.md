@@ -13,10 +13,12 @@ This is a React web application that provides real-time news updates using the N
 
 ### Snapshots
 
-1. ![Screenshot 2023-12-02 123947](https://github.com/Boahan/Newsapp/assets/111555189/8f7d8c65-f501-4674-9bd2-8df4010a2124)
+1.
+![Screenshot 2023-12-02 123947](https://github.com/Boahan/Newsapp/assets/111555189/8f7d8c65-f501-4674-9bd2-8df4010a2124)
 
 
-2. ![Screenshot 2023-12-02 124019](https://github.com/Boahan/Newsapp/assets/111555189/afd0f34b-94fb-44a5-8722-9cf664d06f24)
+2.
+![Screenshot 2023-12-02 124019](https://github.com/Boahan/Newsapp/assets/111555189/afd0f34b-94fb-44a5-8722-9cf664d06f24)
 
 
 
